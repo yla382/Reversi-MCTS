@@ -1,10 +1,3 @@
-/*
-	node.h
-	CMPT 310 Final Project: Reversi with Monte-Carlo Tree Search
-	Yoonhong Lee – 301267876
-	Elia Karimi Sisan - 301369976
-*/
-
 #ifndef NODE_H
 #define NODE_H
 
