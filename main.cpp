@@ -1,16 +1,3 @@
-/*
-	main.cpp
-	CMPT 310 Final Project: Reversi with Monte-Carlo Tree Search
-	Yoonhong Lee – 301267876
-	Elia Karimi Sisan - 301369976
-*/
-
-/* 
-	TESTING NOTE FOR TAS:
-	The original program is the Human vs AI version 
-	To run the AI vs AI version, please uncomment the AI vs AI main function and comment the Human vs AI portion
-*/
-
 #include <iostream>
 #include <vector>
 #include <ctime>
